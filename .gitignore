@@ -31,4 +31,4 @@ archive.zip
 .venv
 /releases/*
 /poetry.toml
-.env*
+.env.*
