@@ -6,5 +6,6 @@ exclude =
     __pycache__,
     ./*venv/*,
     ./*pytest_cache/*,
+    */__init__.py,
 
 max-complexity = 10
