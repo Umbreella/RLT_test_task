@@ -1,0 +1,10 @@
+[flake8]
+inline-quotes = single
+
+exclude =
+    .git,
+    __pycache__,
+    ./*venv/*,
+    ./*pytest_cache/*,
+
+max-complexity = 10
